@@ -18,6 +18,8 @@ pip install -r requirements.txt
 
 #### To run interpolated object prediction as a ranking task: 
 
+Please unzip "data.zip" file first.  
+
 ```python
 cd LEAP_OP1
 sh Train_LEAP_OP1.sh
